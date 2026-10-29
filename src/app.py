@@ -1,0 +1,1 @@
+'''FastAPI app that serves the model'''
