@@ -16,5 +16,5 @@
       ]
     }
   },
-  "postCreateCommand": "pip install --user requirements.txt"
+  "postCreateCommand": "pip install --user -r requirements.txt"
 }
